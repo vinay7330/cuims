@@ -16,7 +16,7 @@ body{
 }
 .imgs{
   box-shadow: 3px 2px black;
-  border-radius: 20px;
+  border-radius: 20px ;
   height: 300px;
   width: 250px;
 }
