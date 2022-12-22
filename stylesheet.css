@@ -11,8 +11,8 @@ body{
   color: black;
 }
 .mainimg{
-  width:100%;
-  height:200px;
+  width:auto;
+  height:auto;
 }
 .imgs{
   box-shadow: 3px 2px black;
