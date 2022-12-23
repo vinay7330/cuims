@@ -2,21 +2,21 @@ body{
   background: linear-gradient(
       to bottom,
        white 60%,                                                                 
-      red 40%,
+      red 40%
   );
   padding: 50px;
   text-align: center;
   color: black;
 }
 .mainimg{
-  width:20%;
-  height:30%;
+  width:auto;
+  height:auto;
 }
 .imgs{
-  box-shadow: 3px 2px gray;
+  box-shadow: 3px 2px rgb(89, 83, 83);
   border-radius: 20px;
-  height:30%;
-  width: 20%;
+  height: 300px;
+  width: 250px;
 }
 footer{
   font-family:Segoe script;
