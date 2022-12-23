@@ -1,25 +1,23 @@
 body{
   background: linear-gradient(
       to bottom,
-       white,
        white 60%,                                                                 
       red 40%,
-      red 100%
   );
   padding: 50px;
   text-align: center;
   color: black;
 }
 .mainimg{
-  width:auto;
-  height:auto;
+  width:20%;
+  height:30%;
 }
 .imgs{
-  box-shadow: 3px 2px black;
+  box-shadow: 3px 2px gray;
   border-radius: 20px;
-  height: 300px;
-  width: 250px;
+  height:30%;
+  width: 20%;
 }
 footer{
-  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family:Segoe script;
 }
